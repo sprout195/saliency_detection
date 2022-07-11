@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 import random
-import torch
 
 
 def get_cv2_func(mode):
